@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-O dev.finances feita na maratona Discovery da Rocketseat.
+O dev.finances - Projeto feito na maratona Discovery da Rocketseat.
 
 ## Descrição 
 
