@@ -19,7 +19,7 @@ Alicação de controle financeiro, onde é possível cadastrar e excluir transa�
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/rafaelpdemelo/dev-finance/blob/main/devfinances.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
