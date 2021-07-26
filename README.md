@@ -7,7 +7,7 @@ O dev.finances feita na maratona Discovery da Rocketseat.
 Alicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src=".dev-finance/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
